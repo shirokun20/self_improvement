@@ -89,12 +89,12 @@ Banyak orang mudah menyerah, jadi perlu dorongan semangat.
 # Checklist Plan
 
 - [x] Struktur direktori & README jelas
-- [ ] Roadmap langkah demi langkah
-- [ ] Resources/sumber belajar lengkap & mudah dipahami
-- [ ] Notes & refleksi diri
-- [ ] Achievements/progress tracker
-- [ ] Template kontribusi & issue
-- [ ] Inspirasi & motivasi
+- [x] Roadmap langkah demi langkah
+- [x] Resources/sumber belajar lengkap & mudah dipahami
+- [x] Notes & refleksi diri
+- [x] Achievements/progress tracker
+- [x] Template kontribusi & issue
+- [x] Inspirasi & motivasi
 
 ---
 
