@@ -1,4 +1,4 @@
-# motivasi_developer_dan_masa_depan_ai.md
+# motivasi_developer_dan_masa_depan_ai
 
 AI dan otomatisasi semakin menjadi bagian dari dunia developer. Jadikan AI sebagai partner, bukan ancaman. Pelajari cara memanfaatkan AI untuk meningkatkan kualitas dan kecepatan kerja, serta eksplorasi peluang baru di bidang AI development.
 
